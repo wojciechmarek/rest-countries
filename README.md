@@ -8,8 +8,23 @@ The purpose of the application is to learn how to use the Microsoft's Blazor fra
 
 ## Demo
 
-The application is available at [not yet](not yet).
+A demo is available at [not yet](https://google.com).
 
 ## Screenshots
 
-![Screenshot 1](./screenshots/screenshot-1.png)
+![Screenshot 1](soon)
+
+## Used technologies
+
+- 🎁 Repository: regular Git repository
+- 🧰 Framework: Blazor (WebAssembly version)
+- 🛠️ Tools: github actions,
+- 🎨 Styling: regular CSS
+- 💎 Others: not yet
+
+## How to start
+
+1. Clone the repository,
+2. Install .NET 5 SDK (or newer),
+3. Install dependencies with `dotnet restore`,
+4. Run the project with `dotnet run`.
