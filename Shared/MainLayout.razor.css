@@ -91,13 +91,17 @@ main {
 }
 
 .layout__header {
+    background: -webkit-linear-gradient(45deg, #8CB6E3, #8875E0);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
     color: #f3f3f3;
     font-size: 2rem;
     font-weight: bold;
 }
 
 .layout__description {
-    color: #f3f3f3;
+    color: #a0a0a0;
 }
 
 
