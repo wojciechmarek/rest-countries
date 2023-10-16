@@ -1,4 +1,4 @@
-.page {
+/* .page {
     position: relative;
     display: flex;
     flex-direction: column;
@@ -78,4 +78,26 @@ main {
         padding-left: 2rem !important;
         padding-right: 1.5rem !important;
     }
+} */
+
+.layout__main {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background-color: #1C1A24;
 }
+
+.layout__header {
+    color: #f3f3f3;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.layout__description {
+    color: #f3f3f3;
+}
+
+
