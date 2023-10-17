@@ -8,19 +8,19 @@ The purpose of the application is to learn how to use the Microsoft's Blazor fra
 
 ## Demo
 
-A demo is available at [not yet](https://google.com).
+A demo is available at [https://rest-countries-wasm.vercel.app](https://rest-countries-wasm.vercel.app/).
 
-## Screenshots
+## Screenshot
 
-![Screenshot 1](soon)
+![landing](./screenshots/landing.webp)
 
 ## Used technologies
 
-- 🎁 Repository: regular Git repository
-- 🧰 Framework: Blazor (WebAssembly version)
-- 🛠️ Tools: github actions,
-- 🎨 Styling: regular CSS
-- 💎 Others: not yet
+- 🎁 Repository: regular Git repository,
+- 🧰 Framework: Blazor (WebAssembly version),
+- 🛠️ Tools: not yet,
+- 🎨 Styling: regular CSS with BEM,
+- 💎 Others: mobile-first, responsive design.
 
 ## How to start
 
