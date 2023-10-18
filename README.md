@@ -4,7 +4,7 @@ The application allows you to search for countries and view detailed information
 
 ## Purpose
 
-The purpose of the application is to learn how to use the Microsoft's Blazor framework (WebAssembly version).
+The purpose of the application is to learn how to use Microsoft's Blazor framework (WebAssembly version) and use the popular [REST Countries API](https://restcountries.com/) to get data about countries.
 
 ## Demo
 
